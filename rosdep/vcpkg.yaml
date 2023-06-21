@@ -40,3 +40,23 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+grid_map_cv:
+  windows:
+    vcpkg:
+      packages: [grid_map_cv]
+rtcm_msgs:
+  windows:
+    vcpkg:
+      packages: [rtcm_msgs]
+xbot_msgs:
+  windows:
+    vcpkg:
+      packages: [xbot_msgs]
+xesc_msgs:
+  windows:
+    vcpkg:
+      packages: [xesc_msgs]
+xbot_positioning:
+  windows:
+    vcpkg:
+      packages: [xbot_positioning]
